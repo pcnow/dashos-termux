@@ -1,5 +1,5 @@
 #!/data/data/com.termux/files/usr/bin/sh
-pkg install git python
+pkg install python
 cd /data/data/com.termux/files/
 git clone https://github.com/pcnow/dashos-unix.git
 mv dashos-unix dashos
